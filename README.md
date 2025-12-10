@@ -69,5 +69,5 @@ It connects to an **ASP.NET Core API** for storing and retrieving product data.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flutter-crud-product.git
+git clone git@github.com:TimBIN23/flutter-crud-product.git
 cd flutter-crud-product
